@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Blog Stuff
+description:      Miscellaneuos Blog
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,12 +9,12 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Randy Morlen
+  avatar:         https://avatars3.githubusercontent.com/u/6600770?s=460&v=4
+  bio:            "Splunk Engineer"
+  email:          rrmtx07@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:  rmorlen      
   facebook:       
   github:         
   stackexchange:  
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
